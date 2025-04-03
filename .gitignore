@@ -1,0 +1,23 @@
+# 🔒 Environment files
+.env
+ai-image-frontend/.env
+
+# 🐍 Python
+__pycache__/
+*.py[cod]
+venv/
+
+# 🧩 Node (Frontend)
+node_modules/
+dist/
+build/
+
+# 📦 Package lock files (optional if you want to ignore them)
+package-lock.json
+yarn.lock
+
+# 🖼️ Generated files
+generated_image.png
+
+# 🌐 Vite cache (optional)
+.vite/
